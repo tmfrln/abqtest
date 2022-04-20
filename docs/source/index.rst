@@ -25,5 +25,5 @@ Contents
 
 Test
 ----
-.. automodule:: lumache
+.. automodule:: main
    :members:
