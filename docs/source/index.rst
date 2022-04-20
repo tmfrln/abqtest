@@ -22,4 +22,4 @@ Contents
 
    usage
    api
-   .. automodule:: lumache
+   Test
