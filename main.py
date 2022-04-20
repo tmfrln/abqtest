@@ -26,10 +26,6 @@ class odb(object):
         """
         Open an odb.
 
-        Parameters
-        ----------
-        None
-
         Returns
         -------
         odb : Abaqus odb object.
@@ -41,10 +37,6 @@ class odb(object):
     def close(self):
         """
         Close the odb.
-
-        Parameters
-        ----------
-        None
 
         Returns
         -------
